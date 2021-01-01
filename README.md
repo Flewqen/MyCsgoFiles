@@ -1,5 +1,4 @@
 # MyCsgoFiles
-
 My Counter-Strike: Global Offensive Files
 
 * __Configs__
